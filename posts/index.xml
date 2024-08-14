@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on The Dev Blog</title>
+    <link>https://nlahkimdev.github.io/posts/</link>
+    <description>Recent content in Posts on The Dev Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Aug 2024 19:24:45 +0100</lastBuildDate>
+    <atom:link href="https://nlahkimdev.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://nlahkimdev.github.io/posts/test/</link>
+      <pubDate>Wed, 14 Aug 2024 19:24:45 +0100</pubDate>
+      <guid>https://nlahkimdev.github.io/posts/test/</guid>
+      <description>this is my first blog post on hugo&#xA;let write some code to welcome everybody&#xA;console.log(&amp;#34;Hello World!&amp;#34;) </description>
+    </item>
+  </channel>
+</rss>
